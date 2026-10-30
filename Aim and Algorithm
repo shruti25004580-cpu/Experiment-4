@@ -1,0 +1,21 @@
+Aim:
+To write a Python program to perform and demonstrate various list operations such as length, append, insert, remove, sort, reverse, copy, maximum, minimum, sum, extend, and pop.
+
+Algorithm:
+
+Start the program.
+Create a list numbers = [50, 20, 30, 10, 40, 20].
+Display the original list.
+Find and display the length of the list using len().
+Add 60 at the end using append().
+Insert 25 at index 2 using insert().
+Remove the first occurrence of 20 using remove().
+Arrange the list in ascending order using sort().
+Reverse the order of elements using reverse().
+Create a copy of the list using copy().
+Find and display the maximum value using max().
+Find and display the minimum value using min().
+Calculate and display the sum of all elements using sum().
+Add [30, 20] to the list using extend().
+Remove the last element using pop() and display the popped element.
+Stop the program.
